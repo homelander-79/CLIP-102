@@ -4,7 +4,7 @@ A collection of fine-tuned [CLIP](https://openai.com/research/clip) models on th
 
 ## 📌 Overview
 
-- 🔍 Dataset: [IP102](https://github.com/xpwc/IP102) – a large-scale dataset of 102 insect pest classes.
+- 🔍 Dataset: [IP102](https://github.com/xpwu95/IP102) – a large-scale dataset of 102 insect pest classes.
 - 🎯 Goal: Improve CLIP's performance on fine-grained pest classification through domain-specific fine-tuning.
 - 🛠️ Methods: Various fine-tuning techniques were applied and compared, including:
   - Linear probing
