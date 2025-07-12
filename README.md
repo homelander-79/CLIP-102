@@ -8,9 +8,6 @@ A collection of fine-tuned [CLIP](https://openai.com/research/clip) models on th
 - 🎯 Goal: Improve CLIP's performance on fine-grained pest classification through domain-specific fine-tuning.
 - 🛠️ Methods: Various fine-tuning techniques were applied and compared, including:
   - Linear probing
-  - Full model fine-tuning
-  - Prompt tuning
-  - Adapter tuning
-
-## 📁 Project Structure
-
+  - LoRA fine-tuning
+  - Soft Prompt tuning
+  - Classification
